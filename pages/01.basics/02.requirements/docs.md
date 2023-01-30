@@ -17,7 +17,7 @@ Also, you will need a Codemagic account to complete the building and deployment 
 
 By the time you finish this article, you will have completed this simple demo Flutter PWA that displays job openings. *(Please note that the figures and data displayed below are just dummy data.)*  
 
-![Job Finder App](https://dribbble.com/shots/17092342-Job-Finder-App)
+![Job Finder App](https://github.com/iwilfried/mschool-ecommerce-docs/blob/main/pages/images/dreamjob.jpg)
 
 The design used for this app was inspired by the design I found on [Dribbble](https://dribbble.com/shots/17092342-Job-Finder-App)  
 <br>
