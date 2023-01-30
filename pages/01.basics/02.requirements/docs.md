@@ -19,8 +19,9 @@ By the time you finish this article, you will have completed this simple demo Fl
 
 ![Job Finder App](https://dribbble.com/shots/17092342-Job-Finder-App)
 
-The design used for this app was inspired by the design I found on Dribbble 
-
+The design used for this app was inspired by the design I found on [Dribbble](https://dribbble.com/shots/17092342-Job-Finder-App)  
+<br>
+<br>
 ## Percussae oculos
 
 Defendentia **flammas mundi salutem** fraudate, non munus revirescere tamen,
