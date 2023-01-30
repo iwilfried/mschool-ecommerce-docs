@@ -19,8 +19,9 @@ By the time you finish this article, you will have completed this simple demo Fl
 
 ![](../images/dreamjob.jpg)
 ![jobs](../path/dreamjob.png)  
+ 
+![jobs](https://res.cloudinary.com/iicamp/image/upload/v1675104720/Doc-Tools/dreamjob.png)  
 
-![jobs](https://github.com/iwilfried/mschool-ecommerce-docs/edit/main/pages/images/dreamjob.png)  
 
 The design used for this app was inspired by the design I found on [Dribbble](https://dribbble.com/shots/17092342-Job-Finder-App)  
 <br>
