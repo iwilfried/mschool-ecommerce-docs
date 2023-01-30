@@ -4,14 +4,20 @@ taxonomy:
     category: docs
 ---
 
-Lorem markdownum pius. Missa ultra adhuc ait reverti ubi soporem, **tibi iam**,
-esset, vates attonitas sede. Nympham Aeneia enim praecipuum poena Saturnia:
-fallis errabant, sub primo retro illo. Caesariem tincta natam contineat demens.
-*Si sed* ardescunt Delphice quasque alteraque servant.
+So, you just finished building that application that’s going to change the world, you’ve submitted the Android apk to the Google Play Store and the iOS ipa to the Apple App Store, and you’re awaiting review. But when you check your email, you discover that your iOS app has been rejected. Given the urgency of releasing the app, what do you do now?
 
-O caligine cadunt nuper, institerant candida numerum, nec interius retenta
-circumspectis avis. Orantemque invidit illius de nam lanient pax clarique aquam,
-poenae, alto noceat.
+Well, the good news is that your application was built with , which is a great tool for creating Progressive Web Apps (PWAs). But what is a PWA?
+
+This tutorial discusses what PWAs are, how to create a Flutter PWA, what to consider while creating one, handling web navigation efficiently, building and publishing a Flutter web app with Codemagic, how to install a PWA, and the benefits of PWAs.
+
+To get the most out of this Flutter PWA tutorial, you should at least be proficient in the Flutter framework and reading Flutter code. At least some familiarity with Navigator 2.0 is needed for the  section of this post.
+
+Also, you will need a Codemagic account to complete the building and deployment part. If you don’t have one, you can , it’s free.
+
+
+By the time you finish this article, you will have completed this simple demo Flutter PWA that displays job openings. (Please note that the figures and data displayed below are just dummy data.)
+
+The design used for this app was inspired by the design I found on Dribbble 
 
 ## Percussae oculos
 
